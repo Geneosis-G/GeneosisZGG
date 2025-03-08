@@ -1,0 +1,30 @@
+I'm in SPAAACE!
+
+What do you do when you find a strange object with a big red button on it in the center of a little crater in your garden? You press the big red button of course :D
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Zero Gravity Generator: You can cancel the effect of gravity around you.
+
+[b]COMMANDS[/b]
+- [b][G]:[/b] Generate a zero gravity wave.
+- [b][H]:[/b] Generate an Earth gravity wave.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][RB]:[/b] Generate a zero gravity wave.
+- [b][LB]:[/b] Generate an Earth gravity wave.
+
+[b]CHARACTERISTICS[/b]
+- You and all objects and creatures in a specific radius around you are affected by the waves.
+- Everything touched by the zero gravity wave will float like in space.
+- Everything touched by the Earth gravity wave will fall like on Earth.
+
+[b]EASTER EGGS[/b]
+- [spoiler]You can wallrun infinitely in zero gravity.[/spoiler]
+- [spoiler]If you jump in zero gravity, you will go up infinitely.[/spoiler]
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Many people mentioned the possibility to make a some kind of low gravity device, and I realized recently that I knew how to do that so when Steve's Wolf suggested a "floating goat" I decided to add this mod to my to-do list :)
+Nothing special to say about the code of this mod: every object have a property called "gravity scale" so I just changed it to a really low value to simulate zero gravity ^^ 
+[/quote]
